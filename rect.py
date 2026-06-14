@@ -30,7 +30,7 @@ def starts(titles:str,widths:int,heights:int,backgrounds:str,steps:int,colors:in
 titles:str="fill grids"
 widths:int=640
 heights:int=480
-backgrounds:str="black"
+backgrounds:str="white"
 steps:int=20
-colors:int="white"
+colors:int="red"
 starts(titles,widths,heights,backgrounds,steps,colors)
